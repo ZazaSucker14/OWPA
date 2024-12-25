@@ -1,0 +1,4 @@
+well_name,pressure_bottomhole,productivity_index,flow_rate,power_input
+Well_A,1500,2.5,100,500
+Well_B,1800,3.0,150,600
+Well_C,2000,3.5,200,700
